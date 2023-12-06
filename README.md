@@ -1,4 +1,4 @@
-# des02-rocketseat
+# Extraindo dados de uma API
 ### o que usamos:
 Python | Pandas | Seaborn | Matplotlib
 
